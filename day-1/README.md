@@ -52,6 +52,7 @@ A Large Language Model (LLM) is an advanced AI system trained on vast amounts of
 
 For AI Landscape for DevOps:
 - AI chatbots (chatGPT, Claude , Deepseek)
-- AI agents (bolt, GitHub agent, AI Assistants)
+- AI agents (bolt, GitHub agent)
+- AI Assistants
 - Programming (Python, FlaskAPI, Flask)
 
