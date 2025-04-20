@@ -4,7 +4,7 @@
 Traditional AI relies on **structured data, pre-defined rules, and predictive models** trained on historical data. It excels at classification, forecasting, and anomaly detection.
 
 ### Example: Incident Detection & Prediction
-- **Use Case:** Predicting system failures before they occur.
+- **Use Case:** Predicting system failures before they occur and aws autoscaling(predictive auto scaling).
 - **How It Works:**  
   - Uses **log-based anomaly detection** and **pattern recognition** (e.g., time-series forecasting).  
   - If CPU usage suddenly spikes beyond a threshold, AI predicts a potential issue.  
@@ -48,4 +48,10 @@ Generative AI (Gen AI) leverages **large language models (LLMs)** to analyze, su
 A Large Language Model (LLM) is an advanced AI system trained on vast amounts of text data to understand, generate, and process human language. These models use deep learning techniques, particularly transformers (like GPT, BERT, or LLaMA), to recognize patterns, predict words, and generate human-like responses.
 
 ---
+
+
+For AI Landscape for DevOps:
+- AI chatbots (chatGPT, Claude , Deepseek)
+- AI agents (bolt, GitHub agent, AI Assistants)
+- Programming (Python, FlaskAPI, Flask)
 
